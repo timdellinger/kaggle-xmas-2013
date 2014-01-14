@@ -1,7 +1,7 @@
 kaggle-xmas-2013
 ================
 
-Python code for Kaggle's Christmas 2013 Challenge
+Python code for Kaggle's Christmas 2013 Challenge ( http://www.kaggle.com/c/packing-santas-sleigh )
 
 Tim Dellinger
 
