@@ -3,6 +3,10 @@ kaggle-xmas-2013
 
 Python code for Kaggle's Christmas 2013 Challenge ( http://www.kaggle.com/c/packing-santas-sleigh )
 
+(update 2018: this code is quite outdated, and pre-dates a lot of the modern python plotting and data
+ manipulation libraries.  In other words, it does a number of things by hand (the hard way) that are
+ simple one-liners today.  It gets the job done, though!)
+ 
 Tim Dellinger
 
 
